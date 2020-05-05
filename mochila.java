@@ -1,6 +1,8 @@
 //Problema da mochila resolvido com uso de recursão
 //Código baseado em um outro programa encontrado na internet
 
+//falta implementar os metodos para coletar as estatisticas
+
 class mochila {
 
     public static void main(String args[]) {
