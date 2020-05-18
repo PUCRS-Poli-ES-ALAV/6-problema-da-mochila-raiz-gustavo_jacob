@@ -15,7 +15,7 @@ class mochila {
         double fim = System.nanoTime();
 
         double tempoTotal = fim - inicio;
-        System.err.println("Tempo total: " + tempoTotal);
+        System.out.println("Tempo total: " + tempoTotal);
         System.out.println("Numero de interações: " + Iteracao);
 
     }
